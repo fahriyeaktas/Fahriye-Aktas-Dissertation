@@ -1,0 +1,201 @@
+We have had some good news over the past few months.
+
+Inflation has fallen a long way, from 10% a year ago to 4% now.
+
+Things are moving in the right direction.
+
+Today, we have held Bank Rate at 5.25%.
+
+Yes, we have had good news.
+
+But we have to be more confident that inflation will fall all the way back to the 2% target – and stay there.
+
+We are not yet at a point where we can lower interest rates.
+
+The level of Bank Rate remains appropriate.
+
+Any decision to change Bank Rate will depend on how the evidence evolves.
+
+Price stability is the foundation of a healthy economy.
+
+We must get inflation back to the 2% target sustainably.
+
+And we will.
+
+As Chart 1 shows, we expect consumer price inflation to continue to fall over the coming months (in the shaded area).
+
+It may tick up slightly in January’s number published in two weeks’ time.
+
+This is because of so-called base effects from volatility in prices like airfares.
+
+But by the time we get to March, we think inflation will be around 3%.
+
+In April, May and June we expect inflation to be close to the 2% target before increasing somewhat over the second half of the year.
+
+Inflation is coming down primarily because the global inflationary shocks have been abating.
+
+The prices of traded goods and food are no longer pushing inflation up as they did (illustrated here by the blue and purple bars respectively).
+
+Oil and gas prices have fallen significantly since November.
+
+That pushes further down on headline inflation in the months ahead (as shown by the contributions from energy prices in the dark orange bars).
+
+When we raised interest rates, it was not to prevent these global shocks from happening – that would not work.
+
+It was to prevent second-round effects on domestic prices from taking hold.
+
+Our restrictive monetary policy stance is working to reduce domestic inflationary pressures.
+
+Services price inflation, which is closely linked to domestic costs, has started to ease and somewhat more than we had expected.
+
+But services price inflation tends to be persistent, and it remains elevated (illustrated in Chart 1 by the contributions in the yellow bars).
+
+So it is not as simple as ‘inflation returns to target in the spring and job done’.
+
+Futures prices for oil and gas suggest that we should not expect further big falls in energy prices.
+
+So looking further ahead, to the second half of year, the negative contributions from energy prices are likely to fade, absent any further shocks.
+
+In and of itself, that will push headline inflation back up somewhat.
+
+Chart 2 shows just how important this energy component is when we look across the whole year and into 2025.
+
+The blue line is our baseline projection for headline inflation over the next three years, conditional on a path for market interest rates implied by market yields.
+
+The red line is a projection for inflation excluding the energy price contributions (shown as purple bars).
+
+As the negative contributions from energy prices fade away over the second half of the year, headline inflation (in blue) is set to go up again somewhat, to around 2¾% by the end of 2024.
+
+Inflation then remains around this level throughout 2025 before gradually returning to target in 2026.
+
+This means that inflation is above target for longer in this projection than in the November report.
+
+That brings me to an important point.
+
+This projection for inflation is not an unconditional forecast.
+
+The projection is the modal – or ‘most likely’ – path for inflation, in the best collective judgement of the MPC, conditional on a set of assumptions about energy prices, the exchange rate, fiscal policy and market interest rates.
+
+So they include market pricing for expectations of future monetary policy decisions.
+
+These conditioning paths have changed significantly since our previous projection from November.
+
+The Brent spot oil price has fallen by 16%, and European gas futures prices for 2024 have fallen by more than 30%.
+
+That pulls the inflation profile down in the near term.
+
+At the same time, the market-implied path for Bank Rate, on which the projection is conditioned, has fallen by almost 1 percentage point on average over the next three years.
+
+That pushes the profile for inflation up over the medium term.
+
+As Chart 3 shows, the fall in the market path for interest rates has widened the gap between our baseline projection, which is conditional on that market path, and our alternative projection conditional on holding Bank Rate constant at its current level throughout the forecast horizon.
+
+In that alternative projection, inflation is projected to be around the 2% target through the first half of the forecast period before falling below target in the second half.
+
+In other words, if we were to keep Bank Rate at 5.25% for the next three years, we think it is likely that inflation would eventually fall significantly below target.
+
+But if we were to follow the market-rate conditioning path, we think inflation would be above target for much of the next three years.
+
+We need to get this balance right.
+
+We have to keep monetary policy sufficiently restrictive for sufficiently long.
+
+Nothing more, nothing less.
+
+For how long will a restrictive stance be needed?
+
+What level of Bank Rate will be required to deliver it?
+
+The answers to those questions will ultimately depend on what the incoming data tell us about the outlook for the UK economy and inflation over the medium term – on whether we have enough evidence that policy is sufficiently restrictive to overcome persistence in inflation.
+
+There are always risks that can change the outlook.
+
+Sadly, geopolitical risks have intensified following events in the Middle East.
+
+There has so far been a limited impact on wholesale energy prices.
+
+But shipping volumes have fallen materially on Red Sea routes.
+
+And as Chart 4 shows, shipping costs have increased on routes from East Asia to the Mediterranean (in purple) and Northern Europe (in light blue), albeit not to the levels seen during the pandemic.
+
+So far, these price increases have not spilled over to other routes such as from East Asia to East Coast America (in orange), and the impact on consumer prices has been limited.
+
+But that could change if trade disruptions continue.
+
+This poses an upside risk to our inflation projection over the first half of the forecast period.
+
+In its assessment of the medium-term outlook, the Monetary Policy Committee has been guided by three key forecast judgements.
+
+These judgements, and the risks around them, are described in detail in the Monetary Policy Report.
+
+The first key judgement is that GDP growth is expected to pick up gradually during the forecast period.
+
+Higher interest rates are weighing on GDP growth.
+
+But with the fall in market rates, and because a fall in import prices is boosting real incomes, we expect the economy to pick up a bit more speed.
+
+Bank staff estimate that around two thirds of the peak domestic impact of higher interest rates on the level of GDP has now come through.
+
+That is up from about half in November.
+
+The second key judgement is that excess demand is turning into excess supply.
+
+While we expect potential supply growth to remain subdued, a modest pick-up in productivity and labour supply growth is sufficient for supply to outpace demand over the forecast period.
+
+The third key judgement is that second-round effects in domestic prices and wages will take longer to unwind than they did to emerge.
+
+This helps explain why inflation remains above the 2% target in our baseline projection despite the emergence of excess supply.
+
+In light of recent evidence, the MPC has slightly reduced the effect of this judgement on the degree of persistence in domestic prices in the forecast.
+
+But inflation remains above target in the projection also because the fall in market interest rates, on which it is conditioned, has reduced the degree of slack that builds in the economy over the forecast horizon.
+
+In making these key judgements, evidence on labour market developments is important.
+
+The MPC considers the collective steer from a wide range of data to inform its view of labour market developments.
+
+But continued uncertainties around the official data are posing challenges.
+
+This is especially the case for the rate of unemployment, where we have fewer alternative indicators to draw on.
+
+Judging by the outlook for the economy, and consistent with our second key judgement, we expect unemployment to rise somewhat further, to around 5% by the end of the forecast period, a little above our estimate of the medium-term equilibrium rate.
+
+To inform our third key judgement, on inflation persistence, the MPC also monitors wage developments very carefully.
+
+Here, we have more to go by.
+
+And the official data are not affected by current issues with the ONS’s abour Force Survey.
+
+Annual growth in regular private sector wages fell to 6.5% in the three months to November.
+
+That is around 1 percentage point lower than we expected in November.
+
+As Chart 5 shows, this has brought the headline wage measure (in blue) in line with other indicators of annual pay growth.
+
+As Chart 6 shows, the MPC continues to judge that private sector wage growth will ease more slowly than the range of forecasts from our suite of models would predict – though the recent news implies that pay growth is slightly weaker than projected in November, reaching 3% by the end of the forecast period.
+
+Combined with the news we have had on services inflation, this is consistent with our third key judgement that second-round effects on domestic prices will take longer to unwind than they did to emerge – if perhaps not quite as long as we previously thought.
+
+The Monetary Policy Committee remains prepared to adjust monetary policy as warranted by economic data.
+
+It is the evidence that will drive our decisions on interest rates.
+
+We will continue to monitor closely indications of persistent inflationary pressures.
+
+As we see the outlook for the economy and inflation today – based on the evidence we have had – we think it is most likely that this year’s questions for the MPC are “for how long should we keep Bank Rate at its current level?” “have inflationary pressures eased enough that we can begin to lower Bank Rate or not?” At this policy meeting, the MPC discussed all options.
+
+Two members of the Committee voted to increase Bank Rate.
+
+One member voted to cut.
+
+The six members in the majority were of the view that Bank Rate should stay at 5.25% – that we still need to see more evidence.
+
+We will therefore keep under review for how long Bank Rate should be maintained at its current level.
+
+We have come a long way.
+
+That is good news.
+
+But we are not there yet.
+
+With that, Ben, Dave and I will be happy to take your questions.
