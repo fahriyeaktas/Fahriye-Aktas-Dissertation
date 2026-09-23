@@ -1,0 +1,197 @@
+Welcome to the November Monetary Policy Report press conference.
+
+Today, we have increased Bank Rate by 0.75 percentage points to 3%.
+
+This is the eighth consecutive increase in Bank Rate since December last year.
+
+We have raised rates by a total of 2.9 percentage points.
+
+These are big changes.
+
+They have a real impact on people’s lives.
+
+So why are we doing it?
+
+And why are we doing it now when so many people are already struggling with higher energy and food prices, and other bills?
+
+We are increasing Bank Rate because inflation is too high.
+
+And it is the Bank’s job to bring it down.
+
+For years, inflation had been low and stable.
+
+Most people did not have to worry about inflation.
+
+But that has changed with supply chain problems after the pandemic, the Russian invasion of Ukraine, and the shrinkage of the UK labour force.
+
+Consumer price inflation stands at over 10%.
+
+But I know that for many it will feel worse, because the prices of essentials like energy and groceries have risen by much more.
+
+People should not have to worry about inflation as they go about their daily business.
+
+That is why we have been raising interest rates and did so again today.
+
+Low and stable inflation is the bedrock of a stable economy, a predictable economy in which people can go about their lives and plan for their futures with confidence; an economy in which hard-earned money keeps its value.
+
+If we do not act forcefully now, it will be worse later on.
+
+As the forecast we are publishing today shows, the road ahead will be a tough one.
+
+The sharp increase in energy prices, caused by Russia’s invasion of Ukraine, has made us poorer as a nation.
+
+The level of economic activity in our economy is likely to be flat, and even fall, for some time.
+
+But the economy will recover.
+
+And inflation will fall.
+
+We cannot pretend to know what will happen to gas prices.
+
+That depends on the war in Ukraine.
+
+But from where we stand now, we think inflation will begin to fall back from the middle of next year, probably quite sharply.
+
+To make sure that happens, Bank Rate may have to go up further over the coming months.
+
+We can make no promises about future interest rates.
+
+But based on where we stand today, we think Bank Rate will have to go up by less than currently priced into financial markets.
+
+That is important because, for instance, it means that the rates on new fixed-term mortgages should not need to rise as they have done.
+
+Let me make some additional important points.
+
+There has been significant volatility in UK financial markets since our last Monetary Policy Report in August.
+
+The lines in this chart show you the peak level of interest rates expected in financial markets in various economies, and how those expectations have moved around since our last forecast.
+
+The expectations for Bank Rate here in the UK are plotted in turquoise.
+
+At the time of the August Report, the market-implied path for Bank Rate rose to a peak of about 3% in March 2023.
+
+By the Committee’s September policy announcement, on 22 September, the peak was 5%, one year ahead.
+
+On 27 September, when turmoil in the market was most intense, the path reached its highest peak, at nearly 6½% in November 2023.
+
+At the market close yesterday, it stood at about 4¾%.
+
+Given these moves, we have conditioned our November forecast on an average of the market-implied paths over the final 7 days of our usual 15-day window.
+
+This means that the forecast we present today is conditioned on a path for Bank Rate that rises to a peak of 5¼% in the second quarter of next year.
+
+Despite the shorter window, this is substantially higher than in August.
+
+Part of this repricing in UK interest rates reflects global developments.
+
+But as this next chart illustrates, there has clearly been a UK-specific component.
+
+Indeed, these significant moves in UK yields – and in UK financial conditions more broadly – have occurred in parallel with significant developments in fiscal policy.
+
+As we describe in a Box in the Monetary Policy Report, the Government has announced an Energy Price Guarantee and an Energy Bill Relief Scheme.
+
+These schemes provide support to households and businesses with their energy bills.
+
+The full Energy Price Guarantee will now last for six months.
+
+Details are yet to follow on the level of support provided beyond that period.
+
+The MPC has therefore adopted a stylised indicative path for household energy prices in producing the forecast.
+
+The working assumption is that the typical household energy bill is halfway between the announced £2,500 limit under the EPG and the level implied by futures prices under the Ofgem price cap.
+
+The energy support policies are likely to limit significantly further increases in inflation, and reduce its volatility, while also supporting spending relative to the August projections.
+
+Other fiscal measures announced as of 17 October also support demand relative to the August projection.
+
+The November forecast does not incorporate any fiscal measures that may be announced at the Autumn Statement scheduled for 17 November.
+
+Sadly, as a consequence of Russia’s invasion of Ukraine, I talked at length about wholesale gas prices at both the May and August press conferences.
+
+Wholesale gas prices continue to be exceptionally volatile.
+
+Spot prices have fallen recently (as you can see from the turquoise line).
+
+But medium-term futures prices have been driven higher by Russia’s restriction of gas supplies to Europe and concerns about gas storage capacity beyond this winter (as you can see by comparing the orange line for November with the purple line for August).
+
+The Committee has conditioned its November forecast on the full futures curve for wholesale energy and non-energy commodity prices.
+
+This is a change to its previous convention that wholesale energy prices follow their respective curves for the first six months of the projection only and then remain constant.
+
+This is a pragmatic choice.
+
+The new conditioning assumption avoids a purely mechanical jump in the projection for consumer prices, which would be a product of using the former convention beyond the assumed two-year duration of Government support to retail energy prices.
+
+By comparison with the moves in financial markets, the news in the economic data has been more modest.
+
+Gross Domestic Product has been weaker than we expected, labour market data have been stronger, and inflation numbers – while high – have come in about as we expected in August.
+
+We keep a particularly close eye on the labour market.
+
+There are some signs that labour demand is starting to soften.
+
+But the labour market remains tight.
+
+The unemployment rate fell to 3.5% in the three months to August, its lowest level since 1974.
+
+As you can see in the purple bars on this chart, the number of unemployed people has now fallen below its pre-Covid level.
+
+A key reason why the labour market has tightened since the pandemic is a marked increase in the number of people who are without a job and who are not actively seeking one.
+
+The number of such so-called inactive people has risen again since the August report (as you can see in the blue bars), and by more than projected.
+
+Sadly, many of the people who are outside the labour market report that they suffer from long-term sickness.
+
+Looking further ahead, the MPC expects domestic inflationary pressures to remain strong over the next year.
+
+But in its central projection, which is conditioned on the market-implied path for Bank Rate that rises to 5¼%, inflation then falls sharply.
+
+It reaches 1.4% at the end of second year, below the 2% target, and it falls to 0% at the end of the third year.
+
+Contributing to this fall is the purely arithmetic fact that the previous rises in energy prices drop out of the calculations of the annual inflation rate.
+
+But, in addition, tighter financial conditions and the squeeze on real incomes slow demand and eventually lead to excess supply and rising unemployment.
+
+This downturn in the economy dampens domestic inflationary pressures.
+
+In the Committee’s best collective judgement, GDP will continue to fall throughout 2023 and into 2024.
+
+Compared with previous UK recessions, GDP remains weak relative to its pre-recession level for a prolonged period (as you see here in yellow).
+
+There is more to this story, however.
+
+The Committee will not pursue a path that we think will drive inflation far below target.
+
+The MPC does not follow the market; it sets the level of Bank Rate to return inflation to the 2% target sustainably, and in a way that avoids undesirable volatility in output.
+
+In every Monetary Policy Report, we also publish a projection conditional on a constant level of Bank Rate, though, for the avoidance of any doubt, with the clear warning that this does not mean the Committee expects to keep Bank Rate constant either.
+
+That said, comparing outcomes under this alternative conditioning assumption with outcomes in the central projection gives a sense of how different policy decisions may shape the paths for economic activity and inflation.
+
+As you can see here in the dashed yellow line, in projections conditioned on a constant level of Bank Rate at 3%, the depth of the recession is much shallower.
+
+Not surprisingly, the projected outcomes for inflation are also different.
+
+Conditional on a constant rate, consumer price inflation is projected to be a little above – rather than below – the target at the end of the second year.
+
+And let me add a further point before I conclude.
+
+Regardless of the path for Bank Rate, the MPC judges that the risk to its inflation projections are skewed to the upside.
+
+In part, the skew reflects the possibility of more persistence in wage and price-setting.
+
+This upside skew has important implications for monetary policy.
+
+If I can put this simply, yes we project a steep fall in inflation, but there are substantial upside risks to that path.
+
+It is not least for this reason that the majority of the Committee judges that further increases in Bank Rate may be required to return inflation sustainably to target, should the economy evolve broadly in line with the forecast presented in the November Monetary Policy Report.
+
+But the central projections, conditional on the market-implied path for Bank Rate, serve as a reminder that we should not increase Bank Rate too far.
+
+The MPC judges that the path for Bank Rate required to return inflation sustainably to target is shallower than that priced into financial markets.
+
+There are, however, considerable uncertainties around the outlook.
+
+If the outlook suggests more persistent inflation pressures, the Committee will respond forcefully, as necessary.
+
+With that, Ben, Dave and I will be happy to take your questions.

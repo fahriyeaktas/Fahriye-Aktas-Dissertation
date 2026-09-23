@@ -1,0 +1,173 @@
+Inflation is falling.
+
+And we expect it to keep falling this year and next.
+
+Our increases in interest rates are working to bring inflation back to the 2% target.
+
+So today we have voted to maintain Bank Rate at 5.25%.
+
+Monetary policy remains restrictive.
+
+Let me be clear, there is absolutely no room for complacency.
+
+Inflation is still too high.
+
+We will keep interest rates high enough for long enough to make sure we get inflation all the way back to the 2% target.
+
+We will be watching closely to see if further increases in interest rates are needed.
+
+But even if they are not, it is much too early to be thinking about rate cuts.
+
+Let me first talk about inflation over the coming months.
+
+Then I will turn to the outlook for the economy and inflation further ahead and what it means for monetary policy.
+
+Chart 1, from today’s Report, shows consumer price inflation and its components since 2019.
+
+It shows how inflation has continued to fall since our previous Report in August.
+
+Much as we expected, inflation took a step down in the data for July published two weeks after the August Report.
+
+As you can see in our near-term projection, shown in the shaded area, we expect inflation to take another – larger – step down in October’s data when it is published in two weeks’ time.
+
+From 6.7% in September, we think it will probably fall to just below 5%.
+
+We then expect it to remain around that level for the rest of year.
+
+The dark orange bars show that this fall is driven in large part by energy prices.
+
+But gradually falling inflation for food and other goods will help too – as shown by the narrowing purple and blue bars.
+
+Ofgem’s price cap means that we can be confident about the contribution from household energy bills to lower inflation over the coming months.
+
+But any projection is uncertain.
+
+There are upside risks to inflation from energy prices following the tragic events in the Middle East.
+
+And there remains uncertainty about the time it will take other non-energy components of inflation to come down as well.
+
+Chart 2 shows the evolution of our near-term inflation projections and compares them with the outturns in the data.
+
+The blue line is actual inflation.
+
+The ‘stalks’ are our near-term forecasts from successive Monetary Policy Reports – in different colours from November last year.
+
+As you can see, the data have come in broadly in line with our near-term projections over the past year.
+
+But in the past few months, inflation outturns have come in somewhat lower than we had expected.
+
+And we now project inflation to be a little lower over the remainder of this year than we did in August.
+
+Most of the downside news since August reflects lower core goods price inflation.
+
+And food inflation has also come down a little faster than we expected.
+
+While services inflation is also slightly lower than we expected in August, it remains elevated, and it now contributes more to overall inflation than the prices of energy, food and other goods.
+
+It is important that services inflation falls steadily over next year.
+
+To achieve that, we need to see an easing of underlying cost pressures in the UK economy.
+
+That brings me to the medium-term outlook.
+
+In the face of the series of significant economic shocks that have hit us in recent years, overall demand in the economy has proved resilient, supported by a very tight labour market.
+
+But there are increasing signs that higher interest rates are weighing on economic activity.
+
+We see that in weaker official activity data and in a range of business surveys.
+
+As we describe in some detail in today’s Report, the Monetary Policy Committee always takes a collective steer from a wide range of indicators to inform its view of labour market developments.
+
+And the overall message from these indicators is that – while it remains tight in an historical context – the labour market has loosened, and by a little more than projected in August.
+
+Chart 3 shows how most indicators of employment growth are easing.
+
+This includes the Purchasing Managers Index for composite employment intentions (in light blue) and the permanent staff placement index (in dark orange).
+
+The official measure (in purple) has also weakened.
+
+But this last series can be volatile, and there are increased uncertainties around it following the suspension of the Labour Force Survey by the ONS.
+
+To inform the MPC’s assessment, Bank staff feed all of these indicators into a model to estimate a measure of underlying employment growth.
+
+This is a long-standing practice, but the challenges with the official data reaffirm the importance of taking such steers from a wide range of data sources.
+
+The model-based estimate is shown in Chart 4 (in blue), along with the official data (in orange).
+
+As you can see, the estimated measure for employment growth has gradually slowed since 2021, cutting through the volatility in the official data.
+
+The indicator-based model suggests that employment will be broadly flat over the second half of this year.
+
+There are other signs that the labour market is loosening.
+
+The number of vacancies has fallen and unemployment has ticked up.
+
+Despite the softening in the labour market, nominal wage growth remains much higher than would be consistent with the inflation target, if sustained at these rates.
+
+The ONS measure of annual growth in regular average weekly earnings in the private sector was 8.0% in August, higher than expected.
+
+This continued strength in wage growth has persuaded the MPC to raise slightly its assessment of the ‘medium-term equilibrium rate of unemployment’ and also its estimate of persistence in wage and price inflation.
+
+In effect, the MPC judges that the weakening in the labour market has been driven in part by a lower supply of labour and not just demand.
+
+This would help to explain the continued strength in pay growth even as employment growth has eased.
+
+While all measures of current pay growth remain elevated, the recent pick-up in the official measure of private sector wages has not been matched by other indicators.
+
+This is illustrated in Chart 5.
+
+The Bank’s Decision Maker Panel (in yellow), HMRC payroll data (in dark orange), and the Indeed Wage Tracker (in purple) all point to wage growth closer to 7%, below the official data (in blue).
+
+The Bank’s Agents continue to report that average annual pay settlements have been in the region of 6 to 6.5%.
+
+That is why, when assessing the evidence of inflation persistence, the MPC will continue to monitor all available data on pay growth very carefully.
+
+Weaker demand and a softer labour market are signs that monetary policy is restrictive.
+
+The effects of higher interest rates continue to weigh on economic activity throughout the forecast we have presented today.
+
+Chart 6 shows the MPC’s projection for growth in the UK economy, conditional on market interest rates.
+
+GDP is projected to remain broadly flat through 2024.
+
+Growth then recovers over the second half of the forecast period.
+
+It remains below historical averages, however, reflecting both restrictive monetary policy and subdued potential supply growth.
+
+On balance, the margin of excess demand has diminished over recent quarters, and we expect an increasing degree of economic slack to emerge from the start of next year.
+
+This will help to reduce inflation pressures in the UK economy, alongside declining external cost pressures.
+
+Chart 7 shows the implications for consumer price inflation.
+
+In the MPC’s central projection, which is conditional on the market path for interest rates, inflation is more likely to end the forecast below the 2% target than above it, albeit only slightly.
+
+In the modal – or ‘most likely’ – case, inflation is 1.9% in two years’ time and ends the forecast at 1.5% in the fourth quarter of 2026.
+
+The Committee continues to judge, however, that risks around that central case are skewed towards higher inflation.
+
+Adjusting the modal projection for the balance of risk, the mean – or ‘expected’ – path for inflation is just above the 2% target in two years’ time and just below it towards the end of the three-year forecast period.
+
+The MPC’s alternative projection, conditioned on a constant level of Bank Rate at 5.25% over the forecast period, has CPI inflation somewhat lower than the projection conditioned on the market path, especially toward the end of the forecast period.
+
+In the mean forecast, inflation is expected to be right at the 2% target in two years’ time, rather than slightly above it, and fall to 1.6%, rather than 1.9%, at the end of the forecast period.
+
+This is because the market path begins to decline gradually from the current level of Bank Rate towards the end of next year so that the constant-rate path is above the market path in the final two years of the forecast.
+
+Monetary policy is currently restrictive in the sense that, if we maintain this stance for long enough, we will squeeze inflation out of the system.
+
+That is what we will do.
+
+This also means being on watch for further signs of inflation persistence that may require interest rates to rise again.
+
+But we should not keep monetary policy restrictive for excessively long.
+
+We have to be mindful of the balance of risks between doing too little and doing too much.
+
+How long a restrictive stance will be needed will ultimately depend on what the incoming data tell us about the outlook for inflation over the medium term.
+
+The MPC’s latest projections indicate that monetary policy is likely to need to be restrictive for quite some time yet.
+
+Returning inflation to the 2% target remains our absolute priority.
+
+With that, Ben, Dave and I will be happy to take your questions.
